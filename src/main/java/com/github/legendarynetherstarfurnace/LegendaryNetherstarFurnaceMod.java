@@ -14,6 +14,7 @@ public class LegendaryNetherstarFurnaceMod {
         LOGGER.info("Initializing Legendary Netherstar Furnace Mod...");
         
         ModBlocks.BLOCKS.register(modEventBus);
+        ModBlocks.BLOCK_ENTITIES.register(modEventBus); // Esta é a linha nova de registro
         ModItems.ITEMS.register(modEventBus);
     }
 }
