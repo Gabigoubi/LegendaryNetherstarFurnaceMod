@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "legendarynetherstarfurnace:dense_nether_star_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "legendarynetherstarfurnace:nether_star_block"
+  }
+}
