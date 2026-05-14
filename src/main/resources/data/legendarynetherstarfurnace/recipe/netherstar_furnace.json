@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "legendarynetherstarfurnace:quantum_singularity_gear"
+    },
+    "F": {
+      "item": "mekanism:ultimate_smelting_factory"
+    },
+    "C": {
+      "item": "mekanism:antimatter_reactor_core"
+    },
+    "P": {
+      "item": "advancedae:quantum_processor"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "CFC",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendarynetherstarfurnace:netherstar_furnace"
+  }
+}
