@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "mekanism:pellet_antimatter"
+    },
+    "E": {
+      "item": "advancedae:quantum_singularity"
+    },
+    "S": {
+      "item": "legendarynetherstarfurnace:singular_nether_star_block"
+    }
+  },
+  "pattern": [
+    "CEC",
+    "ESE",
+    "CEC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "legendarynetherstarfurnace:quantum_singularity_gear"
+  }
+}
