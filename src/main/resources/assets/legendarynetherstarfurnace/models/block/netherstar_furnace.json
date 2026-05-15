@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "legendarynetherstarfurnace:block/furnace_front",
+    "side": "legendarynetherstarfurnace:block/furnace_side",
+    "top": "legendarynetherstarfurnace:block/furnace_side",
+    "bottom": "legendarynetherstarfurnace:block/furnace_side"
+  }
+}
