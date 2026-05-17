@@ -233,5 +233,65 @@
     },
     "done": true
   },
+  "advanced_ae:recipes/misc/quantumstorage128": {
+    "criteria": {
+      "hasItem": "2026-05-17 19:34:56 -0300"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstructure": {
+    "criteria": {
+      "hasItem": "2026-05-17 19:34:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-05-17 19:32:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-05-17 19:31:22 -0300"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumaccel": {
+    "criteria": {
+      "hasItem": "2026-05-17 19:34:56 -0300"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumcore": {
+    "criteria": {
+      "hasItem": "2026-05-17 19:34:56 -0300"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage256": {
+    "criteria": {
+      "hasItem": "2026-05-17 19:34:56 -0300"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumunit": {
+    "criteria": {
+      "hasItem": "2026-05-17 19:34:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-05-17 19:31:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2026-05-17 19:31:22 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
