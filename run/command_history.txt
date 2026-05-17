@@ -1,0 +1,12 @@
+/give @a legendarynetherstarfurnace:netherstar_furnace
+/give a legendarynetherstarfurnace:dense_nether_star_block
+/give @a legendarynetherstarfurnace:dense_nether_star_block
+/give @a legendarynetherstarfurnace:flawless_nether_star_block
+/give @a legendarynetherstarfurnace:nether_star_block
+/give @a legendarynetherstarfurnace:quantum_singularity_gear
+/give @a legendarynetherstarfurnace:singular_nether_star_block
+/give @a legendarynetherstarfurnace:netherstar_furnace
+/give @a minecraft:iron_pickaxe 500
+/give @a iron_ore 500
+/give @a iron_ore 700
+/give @a mekanism:antiprotonic_nucleosynthesizer

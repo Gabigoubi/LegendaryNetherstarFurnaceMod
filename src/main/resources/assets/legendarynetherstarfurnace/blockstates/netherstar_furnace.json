@@ -1,8 +1,5 @@
 {
   "variants": {
-    "facing=north": { "model": "legendarynetherstarfurnace:block/netherstar_furnace" },
-    "facing=south": { "model": "legendarynetherstarfurnace:block/netherstar_furnace", "y": 180 },
-    "facing=west":  { "model": "legendarynetherstarfurnace:block/netherstar_furnace", "y": 270 },
-    "facing=east":  { "model": "legendarynetherstarfurnace:block/netherstar_furnace", "y": 90 }
+    "": { "model": "legendarynetherstarfurnace:block/netherstar_furnace" }
   }
 }

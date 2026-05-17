@@ -1,0 +1,117 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 2026-05-17 17:47:07
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: ae2addonlib --
+Details:
+	Mod file: /C:/Users/gabri/OneDrive/Documentos/Projetos/LegendaryNetherstarFurnaceMod/LegendaryNetherstarFurnaceMod/run/mods/AdvancedAE-1.6.11-1.21.1.jar#193!/META-INF/jarjar/ae2addonlib-1.0.3-1.21.1.jar
+	Failure message: Mod ae2addonlib requires ae2 19.2.16 or above
+		Currently, ae2 is not installed
+		
+	Mod version: 1.0.3-1.21.1
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: legendarynetherstarfurnace --
+Details:
+	Mod file: /C:/Users/gabri/OneDrive/Documentos/Projetos/LegendaryNetherstarFurnaceMod/LegendaryNetherstarFurnaceMod/build/classes/java/main/
+	Failure message: Mod legendarynetherstarfurnace requires ae2 any
+		Currently, ae2 is not installed
+		
+	Mod version: 1.0.0
+	Mod issues URL: https://github.com/Gabigoubi/LegendaryNetherstarFurnace/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: ae2wtlib_api --
+Details:
+	Mod file: /C:/Users/gabri/OneDrive/Documentos/Projetos/LegendaryNetherstarFurnaceMod/LegendaryNetherstarFurnaceMod/run/mods/AdvancedAE-1.6.11-1.21.1.jar#193!/META-INF/jarjar/ae2wtlib_api-19.2.5.jar
+	Failure message: Mod ae2wtlib_api requires ae2 19.2.13 or above, and below 20.0.0
+		Currently, ae2 is not installed
+		
+	Mod version: 19.2.5
+	Mod issues URL: https://github.com/Mari023/AE2WirelessTerminalLibrary/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: advanced_ae --
+Details:
+	Mod file: /C:/Users/gabri/OneDrive/Documentos/Projetos/LegendaryNetherstarFurnaceMod/LegendaryNetherstarFurnaceMod/run/mods/AdvancedAE-1.6.11-1.21.1.jar
+	Failure message: Mod advanced_ae requires ae2 19.2.16 or above
+		Currently, ae2 is not installed
+		
+	Mod version: 1.6.11-1.21.1
+	Mod issues URL: https://github.com/pedroksl/AdvancedAE/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: advanced_ae --
+Details:
+	Mod file: /C:/Users/gabri/OneDrive/Documentos/Projetos/LegendaryNetherstarFurnaceMod/LegendaryNetherstarFurnaceMod/run/mods/AdvancedAE-1.6.11-1.21.1.jar
+	Failure message: Mod advanced_ae requires geckolib 4.8.2 or above
+		Currently, geckolib is not installed
+		
+	Mod version: 1.6.11-1.21.1
+	Mod issues URL: https://github.com/pedroksl/AdvancedAE/issues
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.11, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+	Memory: 123017704 bytes (117 MiB) / 463470592 bytes (442 MiB) up to 2067791872 bytes (1972 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: 12th Gen Intel(R) Core(TM) i5-12450H
+	Identifier: Intel64 Family 6 Model 154 Stepping 3
+	Microarchitecture: Alder Lake
+	Frequency (GHz): 2.50
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 12
+	Graphics card #0 name: Intel(R) UHD Graphics
+	Graphics card #0 vendor: Intel Corporation
+	Graphics card #0 VRAM (MiB): 2048.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.101.7026
+	Memory slot #0 capacity (MiB): 4096.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 4096.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 23883.07
+	Virtual memory used (MiB): 11940.86
+	Swap memory total (MiB): 16000.00
+	Swap memory used (MiB): 879.91
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 195456.47, total: 487352.00
+	Space in storage for workdir (MiB): available: 195456.47, total: 487352.00
+	JVM Flags: 0 total; 
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclientdev
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.42.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.42.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.42.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		neoforge-21.1.228.jar                             |Minecraft                     |minecraft                     |1.21.1              |Manifest: NOSIGNATURE
+		neoforge-21.1.228.jar                             |NeoForge                      |neoforge                      |21.1.228            |Manifest: NOSIGNATURE

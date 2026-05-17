@@ -1,13 +1,14 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="MIT"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Gabigoubi/LegendaryNetherstarFurnace/issues"
 
 [[mods]]
 modId="legendarynetherstarfurnace"
 version="1.0.0"
 displayName="Legendary Netherstar Furnace"
-authors="YourGitHubUsername"
-description="An extreme end-game automation mod that introduces massive Nether Star compression and integration with Mekanism and AdvancedAE."
+description="An extreme end-game automation mod for Minecraft NeoForge 1.21.1."
+authors="Gabs"
 
 [[dependencies.legendarynetherstarfurnace]]
 modId="neoforge"
@@ -17,15 +18,22 @@ ordering="NONE"
 side="BOTH"
 
 [[dependencies.legendarynetherstarfurnace]]
-modId="mekanism"
+modId="minecraft"
 type="required"
-versionRange="[10.6,)"
+versionRange="[1.21.1,1.22)"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.legendarynetherstarfurnace]]
-modId="advancedae"
+modId="mekanism"
 type="required"
-versionRange="[1.0,)"
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.legendarynetherstarfurnace]]
+modId="ae2"
+type="required"
+versionRange="*"
 ordering="NONE"
 side="BOTH"

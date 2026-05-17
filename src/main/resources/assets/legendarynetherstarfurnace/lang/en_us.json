@@ -5,5 +5,6 @@
   "block.legendarynetherstarfurnace.singular_nether_star_block": "Singular Nether Star Block",
   "block.legendarynetherstarfurnace.netherstar_furnace": "\u00A76Legendary Netherstar Furnace",
   "item.legendarynetherstarfurnace.quantum_singularity_gear": "Quantum Singularity Gear",
-  "itemGroup.legendarynetherstarfurnace": "Legendary Netherstar Furnace"
+  "itemGroup.legendarynetherstarfurnace": "Legendary Netherstar Furnace",
+  "creativetab.legendarynetherstarfurnace.legendary_tab": "Cosmic Forge Mod"
 }

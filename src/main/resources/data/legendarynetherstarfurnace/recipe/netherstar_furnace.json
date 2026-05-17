@@ -9,10 +9,10 @@
       "item": "mekanism:ultimate_smelting_factory"
     },
     "C": {
-      "item": "mekanism:antimatter_reactor_core"
+      "item": "mekanism:pellet_antimatter"
     },
     "P": {
-      "item": "advancedae:quantum_processor"
+      "item": "advanced_ae:quantum_processor"
     }
   },
   "pattern": [
