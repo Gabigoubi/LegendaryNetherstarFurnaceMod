@@ -31,7 +31,7 @@ Crafted in a 3x3 Grid:
 Crafted in a 3x3 Grid:
 * Top Row: 3x Quantum Singularity Gears
 * Center: 1x Ultimate Smelting Factory (Mekanism)
-* Center Left & Right: 2x Antimatter Reactor Cores (Mekanism)
+* Center Left & Right: 2x Antimatter Pellets (Mekanism)
 * Bottom Row: 3x Quantum Processors (AdvancedAE)
 
 ---
